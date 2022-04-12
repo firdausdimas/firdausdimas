@@ -13,4 +13,3 @@
   <a href="https://www.instagram.com/muhfirdaus20/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>    
 </p>
    
-file:///C:/Users/razki/OneDrive/Documents/DATA%20SCIENCE%20APP/Project%20Dwnld/GitLang.html
