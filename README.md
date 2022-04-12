@@ -5,12 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Job Seeker
-- 🌱 I’m currently learning Data Analytic & Data Science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Data Analytic Job
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a Job Seeker.
+- 🌱 I’m currently learning Data Analytic & Data Science.
+- 🤔 I’m looking for help with Data Analytic Job.
+- 😄 Pronouns: He/His.
+- ⚡ Fun fact: Always Smile in any situation.
