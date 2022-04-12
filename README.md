@@ -12,34 +12,6 @@
   <a href="mailto:firdausdimasss95@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   <a href="https://www.instagram.com/muhfirdaus20/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>    
 </p>
-
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@firdausdimas 
-myarist
-/
-github-stats-transparent
-Public
-forked from rahul-jha98/github-stats-transparent
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-github-stats-transparent/generated/languages.svg
-@github-actions
-github-actions Update generated files
-Latest commit 486ab50 1 hour ago
- History
- 1 contributor
-242 lines (196 sloc)  7.64 KB
    
 <svg width="360" height="210" xmlns="http://www.w3.org/2000/svg">
 <style>
@@ -171,15 +143,3 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 </g>
 </g>
 </svg>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
