@@ -12,3 +12,4 @@
   <a href="https://www.instagram.com/muhfirdaus20/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>    
 </p>
    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firdausdimas&show_icons=true&theme=radical)
