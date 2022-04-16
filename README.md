@@ -11,7 +11,7 @@
   <a href="mailto:firdausdimasss95@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   <a href="https://www.instagram.com/muhfirdaus20/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>    
 </p>
-   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firdausdimas&show_icons=true&theme=radical)
+  
+<img align="left" width= "47%" src="https://github-readme-stats.vercel.app/api?username=firdausdimas&show_icons=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firdausdimas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width= "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdausdimas&layout=compact" />
